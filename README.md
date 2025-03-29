@@ -55,10 +55,9 @@ Estou sempre aprendendo e buscando novos desafios na tecnologia, com o objetivo 
 </div>
 
 ###
-<br clear="both">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clarissemilk/clarissemilk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clarissemilk/clarissemilk/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clarissemilk/clarissemilk/output/github-contribution-grid-snake.svg">
-</picture>
+
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clarissemilk&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
+</div>
 
 
