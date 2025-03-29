@@ -1,5 +1,16 @@
-<h2 align="left">Hi 👋! My name is Clarisse and I'm a student in Information Systems, from Brazil.</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
+<img align="center" alt="" src="./src/header-gif.gif">
+
+#
+
+<p align="center">Estudante de Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia. Atualmente, estou aprimorando meus conhecimentos em Java, Spring Boot e na área de dados.
+Estou sempre aprendendo e buscando novos desafios na tecnologia, com o objetivo de aplicar meus conhecimentos de forma prática e eficiente.
+  
 ###
 
 <div align="center">
