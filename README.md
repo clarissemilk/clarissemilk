@@ -41,8 +41,8 @@ Estou sempre aprendendo e buscando novos desafios na tecnologia, com o objetivo 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="30" alt="html logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="30" alt="css logo"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
 
