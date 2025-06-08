@@ -1,19 +1,14 @@
-<p align="center">
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-  <br>
-</p>
+# 👩🏻‍💻 Clarisse Leite
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F719DF&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Clarisse!+%3C3" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg">
-  </a>
-</div>
+**`Estagiária em Engenharia de Dados`**
+
+Me chamo Clarisse Leite, tenho 21 anos. Atualmente, estou cursando Sistemas de Informação no IFBA. Entusiasta da tecnologia com foco em transformar informação em conhecimento útil 
 
 
-<img align="center" alt="" src="./src/header-gif.gif">
 
-#
-<p align="center">Estudante de Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia. Atualmente, estou aprimorando meus conhecimentos em Java, Spring Boot e na área de dados.
-Estou sempre aprendendo e buscando novos desafios na tecnologia, com o objetivo de aplicar meus conhecimentos de forma prática e eficiente.
+---
+
+### 🤖 Linguagens e Tecnologias
   
 ###
 
