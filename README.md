@@ -2,7 +2,11 @@
 
 **`Estagiária em Engenharia de Dados`**
 
-Me chamo Clarisse Leite, tenho 21 anos. Atualmente, estou cursando Sistemas de Informação no IFBA. Entusiasta da tecnologia com foco em transformar informação em conhecimento útil 
+Me chamo Clarisse Leite, tenho 21 anos. Sou estudante de Sistemas de Informação no IFBA. Atualmente estou estagiando na área de Engenharia de Dados, onde estou desenvolvendo habilidades práticas com Python e SQL, além de explorar bibliotecas como pandas, matplotlib e outras ferramentas do ecossistema de dados.
+
+Também estou me preparando para obter uma certificação AWS, com foco em serviços voltados para processamento, análise e visualização de dados em nuvem.
+
+Este espaço é onde compartilho meus projetos, aprendizados e experiências enquanto evoluo na jornada como futura profissional de dados.
 
 
 
