@@ -10,10 +10,14 @@ Tenho explorado automação e integração de ferramentas para tornar processos 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clarissemilk&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clarissemilk&layout=compact&langs_count=5&theme=dracula" height="150" />
-</div>
+<p align="left">
+  <a href="https://github.com/clarissemilk">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clarissemilk&theme=calm" height="180em" alt="Linguagens mais usadas" />
+  </a>
+  <a href="https://github.com/clarissemilk">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clarissemilk&theme=calm" height="180em" alt="Estatísticas do GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -33,6 +37,10 @@ Tenho explorado automação e integração de ferramentas para tornar processos 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="24" alt="Matplotlib" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="24" alt="Pandas" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="24" alt="sqlite" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="24" alt="flask" />
+
+    
 
   </p>
 </div>
