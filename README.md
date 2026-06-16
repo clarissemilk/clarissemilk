@@ -12,10 +12,10 @@ Tenho explorado automação e integração de ferramentas para tornar processos 
 
 <p align="left">
   <a href="https://github.com/clarissemilk">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clarissemilk&theme=calm" height="180em" alt="Linguagens mais usadas" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clarissemilk&theme=dracula" height="180em" alt="Linguagens mais usadas" />
   </a>
   <a href="https://github.com/clarissemilk">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clarissemilk&theme=calm" height="180em" alt="Estatísticas do GitHub" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clarissemilk&theme=rose_pine" height="180em" alt="Estatísticas do GitHub" />
   </a>
 </p>
 
