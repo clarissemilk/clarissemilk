@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Clarisse Leite
 
-**Data Engineering • Analytics • BI • Automação**
+**`Data Engineering • Analytics • BI • Automação`**
 
 Estudante de Sistemas de Informação no IFBA e profissional atuando com Engenharia de Dados, Analytics e Business Intelligence no setor de distribuição e varejo alimentar.
 
