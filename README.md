@@ -1,10 +1,12 @@
 # 👩🏻‍💻 Clarisse Leite
 
-**`Dados • Automação • Integrações | Estudante de Sistemas de Informação no IFBA`**
+**`Data Engineering • Analytics • BI • Automação | Estudante de Sistemas de Informação no IFBA`**
 
-Me chamo Clarisse Leite, tenho 21 anos e sou estudante de Sistemas de Informação no Instituto Federal da Bahia-IFBA. Atualmente, Trabalho com dados, Python, SQL e processos de ETL, e gosto especialmente de entender, organizar e integrar informações vindas de diferentes sistemas.
+Estudante de Sistemas de Informação no IFBA e profissional atuando com Engenharia de Dados, Analytics e Business Intelligence no setor de distribuição e varejo alimentar.
 
-Tenho explorado automação e integração de ferramentas para tornar processos mais eficientes. Este espaço é onde compartilho meus projetos, estudos e aprendizados na área de tecnologia.
+Experiência com modelagem de dados, desenvolvimento de consultas SQL, pipelines ETL e criação de dashboards e relatórios gerenciais para análise de faturamento, vendas, compras, custos operacionais e indicadores estratégicos.
+
+Interesses: Engenharia de Dados, Cloud, Automação, Integração de Sistemas e Visualização de Dados.
 
 ---
 
